@@ -99,6 +99,9 @@ sportCircle.controller('homeCtrl', ['$scope', '$http', '$location', '$rootScope'
         {
             text: "Game",
             image: 'https://unsplash.it/1200/360?image=401'
+        },{
+            text: "Game",
+            image: 'https://unsplash.it/1200/360?image=623'
         }
     ];
     $scope.categories = [{
