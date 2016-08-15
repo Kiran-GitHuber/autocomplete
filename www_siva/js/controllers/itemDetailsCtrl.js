@@ -1,4 +1,4 @@
-// create the controller and inject Angular's $scope
+// create the controller and inject Angular's $scope for itemDetailsCtrl
 sportCircle.controller('itemDetailsCtrl',['$scope','$http','$location', function ($scope, $http, $location, $rootScope, $window, $modal) {
 
     $scope.itemDetails = {
